@@ -3,6 +3,7 @@ A simple website about Resume based on Django.
 
 # Requirements.txt
 python 3 >
+
 Django 2.0.1
 
 # How to run?
