@@ -8,6 +8,8 @@ Django 2.0.1
 
 # How to run?
 
+You can run the website in Mac Terminal:
+
 git clone https://github.com/BattleBird/resume
 
 virtualenv . --python=python3.6
