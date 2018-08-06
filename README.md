@@ -12,6 +12,8 @@ You can run the website in Mac Terminal:
 
 git clone https://github.com/BattleBird/resume
 
+cd resume/
+
 virtualenv . --python=python3.6
 
 source bin/active
