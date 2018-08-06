@@ -9,10 +9,15 @@ Django 2.0.1
 # How to run?
 
 git clone https://github.com/BattleBird/resume
+
 virtualenv . --python=python3.6
+
 source bin/active
+
 pip install Django==2.0.1
+
 python manage.py migrate
+
 python manage.py runserver
 
 Starting development server at http://127.0.0.1:8000/
