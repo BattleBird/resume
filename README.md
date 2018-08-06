@@ -16,7 +16,7 @@ cd resume/
 
 virtualenv . --python=python3.6
 
-source bin/active
+source bin/activate
 
 pip install Django==2.0.1
 
