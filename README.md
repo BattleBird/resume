@@ -16,10 +16,6 @@ mkdir my_resume
 
 cd my_resume
 
-mkdir resume
-
-cd resume
-
 git clone https://github.com/BattleBird/resume
 
 cd ..
