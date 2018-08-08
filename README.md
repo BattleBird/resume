@@ -30,6 +30,8 @@ source bin/activate
 
 pip install Django==2.0.1
 
+cd resume
+
 python manage.py migrate
 
 python manage.py runserver
