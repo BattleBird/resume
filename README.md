@@ -18,8 +18,6 @@ cd my_resume
 
 git clone https://github.com/BattleBird/resume
 
-cd ..
-
 virtualenv . --python=python3.6
 
 source bin/activate
