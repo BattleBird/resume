@@ -29,3 +29,4 @@ Starting development server at http://127.0.0.1:8000/
 # Tips
 
 You can modify this resume to satisfy your own ideas. I have changed the path of staticfile to absolute path, so you will find it easy to modify this website.
+# resume
