@@ -10,9 +10,15 @@ Django 2.0.1
 
 You can run the website in Mac Terminal:
 
+cd Desktop/
+
+mkdir my_resume/resume
+
+cd my_resume/resume
+
 git clone https://github.com/BattleBird/resume
 
-cd resume/
+cd ..
 
 virtualenv . --python=python3.6
 
@@ -29,5 +35,4 @@ Starting development server at http://127.0.0.1:8000/
 # Tips
 
 You can modify this resume to satisfy your own ideas. I have changed the path of staticfile to absolute path, so you will find it easy to modify this website.
-# resume
-# resume
+
