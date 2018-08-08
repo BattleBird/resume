@@ -12,9 +12,13 @@ You can run the website in Mac Terminal:
 
 cd Desktop/
 
-mkdir my_resume/resume
+mkdir my_resume
 
-cd my_resume/resume
+cd my_resume
+
+mkdir resume
+
+cd resume
 
 git clone https://github.com/BattleBird/resume
 
